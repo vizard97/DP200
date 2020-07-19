@@ -1,0 +1,11 @@
+#	Data requirement	Data Structure
+1	A data store is made available that will hold the images of the products that are sold on the website.	Unstructured
+2	A system to better serve customers with global availability of its application and sales and ordering data. 	Structured
+3	Data warehouse capabilities of Azure SQL Data Warehouse 	Structured
+4	Would like to take their data analytics further and start to utilize predictive analytics capabilities.	Semi-structured 
+5	Requested a platform is provided by the Data Engineer that enables them to store conversation history.	Semi-structured
+6	The marketing department are keen to measure the impact of their twitter campaigns	Unstructured
+7	The customer services department want to help their agents to identify fraudulent call for support	Semi-structured
+8	First party and 3rd party applications have access to the information of the bicycle computer	Semi-structured
+9	Bike telemetry data can be used to provide predictive maintenance	Semi-structured
+
